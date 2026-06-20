@@ -864,7 +864,7 @@ export default function OptiCoreLanding() {
 
           <div className="hidden md:flex items-center gap-4">
             <a
-              href="https://calendly.com/fabrizzio-joel-c/opticore-call"
+              href="https://calendly.com/fabrizzio-joel-c/call"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2.5 bg-transparent border border-border-sutil rounded-lg text-xs font-bold uppercase tracking-wider text-acento-primario hover:bg-bg-hover hover:border-acento-primario hover:scale-105 transition-all duration-200 focus:outline-none shadow-md"
@@ -898,7 +898,7 @@ export default function OptiCoreLanding() {
               <a href="#casos" onClick={() => setMobileMenuOpen(false)} className="text-text-secundario hover:text-text-primario">Casos</a>
             </nav>
             <a
-              href="https://calendly.com/fabrizzio-joel-c/opticore-call"
+              href="https://calendly.com/fabrizzio-joel-c/call"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full py-4 bg-acento-primario text-bg-primary font-bold rounded-lg text-center shadow-lg"
@@ -931,7 +931,7 @@ export default function OptiCoreLanding() {
                 label="Agendar Sesión Estratégica →"
                 variant="primary"
                 className="w-full sm:w-[320px] shadow-[0_4px_20px_rgba(0,242,254,0.2)]"
-                onComplete={() => window.open("https://calendly.com/fabrizzio-joel-c/opticore-call", "_blank", "noopener,noreferrer")}
+                onComplete={() => window.open("https://calendly.com/fabrizzio-joel-c/call", "_blank", "noopener,noreferrer")}
               />
               <a
                 href="https://wa.me/5493517302559?text=Hola!%20Quiero%20saber%20más%20sobre%20los%20agentes%20de%20IA%20para%20mi%20empresa."
@@ -1438,7 +1438,7 @@ export default function OptiCoreLanding() {
 
                 <div>
                   <a
-                    href="https://calendly.com/fabrizzio-joel-c/opticore-call"
+                    href="https://calendly.com/fabrizzio-joel-c/call"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full py-4 bg-acento-primario text-bg-primary font-bold text-center rounded-lg shadow-lg block focus:outline-none hover:scale-[1.02] transition-transform"
@@ -1506,7 +1506,7 @@ export default function OptiCoreLanding() {
 
                 <div>
                   <a
-                    href="https://calendly.com/fabrizzio-joel-c/opticore-call"
+                    href="https://calendly.com/fabrizzio-joel-c/call"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full py-4 bg-transparent border border-border-sutil hover:border-acento-purple text-text-primario font-bold text-center rounded-lg block focus:outline-none hover:bg-bg-hover hover:scale-[1.02] transition-all"
@@ -1648,7 +1648,7 @@ export default function OptiCoreLanding() {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <a
-                href="https://calendly.com/fabrizzio-joel-c/opticore-call"
+                href="https://calendly.com/fabrizzio-joel-c/call"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3.5 bg-transparent border border-border-sutil text-text-primario font-semibold hover:bg-bg-hover rounded-lg transition-all flex items-center gap-2"
@@ -1933,7 +1933,7 @@ export default function OptiCoreLanding() {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <a
-                href="https://calendly.com/fabrizzio-joel-c/opticore-call"
+                href="https://calendly.com/fabrizzio-joel-c/call"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3.5 bg-transparent border border-border-sutil text-text-primario font-semibold hover:bg-bg-hover rounded-lg transition-all flex items-center gap-2"
@@ -2153,7 +2153,7 @@ export default function OptiCoreLanding() {
                   label="Agendar llamada directa →"
                   variant="primary"
                   className="flex-1 min-w-[220px]"
-                  onComplete={() => window.open("https://calendly.com/fabrizzio-joel-c/opticore-call", "_blank", "noopener,noreferrer")}
+                  onComplete={() => window.open("https://calendly.com/fabrizzio-joel-c/call", "_blank", "noopener,noreferrer")}
                 />
               </div>
             </div>
@@ -2372,7 +2372,7 @@ export default function OptiCoreLanding() {
                       label="Agendar videollamada →"
                       variant="outline"
                       className="flex-1"
-                      onComplete={() => window.open("https://calendly.com/fabrizzio-joel-c/opticore-call", "_blank", "noopener,noreferrer")}
+                      onComplete={() => window.open("https://calendly.com/fabrizzio-joel-c/call", "_blank", "noopener,noreferrer")}
                     />
                   </div>
 
